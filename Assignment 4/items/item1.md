@@ -1,0 +1,5 @@
+**Context:**
+In one of my UX classes we were presented with the task of making everyday services or products more accessible I chose to examine a average first aid kit. 
+
+**My Angle:**
+There are many things that a person with a disability may need help with such as everyday small injures. As many disabled people are self sufficient and have learned alternate ways of understanding and adapting to problems I wanted to allow them an easier way to accomplish the problem of self care. To do this I started of by examining a typical first aid box and looking into which parts I thought may be inaccessible. I then researched accessible medical tools and products and what methods they used to develop their product. I adopted some of their techniques and designed a low-fidelity prototype as displayed above. A more accessible first aid kit is great for people with all kinds od disabilities from visual to physical. 

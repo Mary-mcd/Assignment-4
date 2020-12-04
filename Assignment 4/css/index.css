@@ -1,0 +1,126 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
+
+h1,h2,h3,h4,h5{ 
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    line-height: 1.45;
+    
+}
+
+body{
+    font-family: 'Piazzolla', serif;
+    font-size: 1.8em;
+    line-height: 1.42;
+}
+
+
+.navbar-inverse .navbar-brand{
+    color: inherit;
+}
+.navbar-inverse{
+    background-color: rgb(168, 217, 231);
+    color:black;
+    border-color: rgb(6, 46, 65);
+  
+
+
+}
+.navbar-inverse .navbar-nav>li>a {
+    background-color: rgb(168, 217, 231);
+    color: black;
+
+}
+
+.navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+}
+
+section#itemsInner{
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+article#items{
+    position: relative;
+}
+
+div.moreleft, div.moreright {
+    position: absolute;
+    height: 100%;
+    width: 2em;
+    background: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+}
+
+div.moreleft {
+    left: 0;
+}
+
+div.moreright {
+    left: 0;
+}
+
+.scrollleft, .scrollright {
+    position: absolute;
+    transform: scaleY(2);
+    bottom: 50%;
+    font-size: 1.2em;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.scrollleft{
+    left: 0;
+}
+
+.scrollright{
+    right: 0;
+}
+
+a.left-button, a.right-button {
+    text-decoration: none;
+    color: rgb(168, 217, 231)
+}
+
+footer{
+    background-color:  rgb(168, 217, 231);
+    color: black;
+}
+
+body{
+    background-color: rgb(230, 239, 250);
+    color: black;
+}
+
+.btn-primary{
+    background-color: rgb(168, 217, 231);
+    color: black;
+    border-color: rgb(6, 46, 65);
+}
+
+h2{
+    background-color: aliceblue;
+    color: rgb(168, 217, 231);
+    border-top: honeydew;
+}
+article{ 
+    margin-top: 65px;
+}
+
+.item{
+    width: 750px;
+    height: 560px;
+    margin: 12px;
+}
+
+html {
+    background-color: #a7c3ec;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .open>dropdown-toggle.btn-primary{
+    background-color: rgb(6, 46, 65);
+    color: white;
+    border-color:  rgb(168, 217, 231); 
+}
